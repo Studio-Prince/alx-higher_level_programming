@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1710748931,,"wq"
+|2,0,1710946288,,"wq"
 :q!
-|2,0,1710151170,,"q!"
+|2,0,1710924387,,"q!"
 :q
 |2,0,1710151079,,"q"
 :!q
@@ -54,230 +54,841 @@
 |3,1,36,0,1,0,1710240468,"R"
 
 # File marks:
-'0  20  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_state.py
-|4,48,20,50,1710748931,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_state.py"
-'1  17  70  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_city.py
-|4,49,17,70,1710748908,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_city.py"
-'2  18  45  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_state.py
-|4,50,18,45,1710748887,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_state.py"
-'3  17  70  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py
-|4,51,17,70,1710748865,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py"
-'4  167  47  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,52,167,47,1710748842,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
-'5  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,53,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
-'6  20  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/8-model_state_fetch_first.py
-|4,54,20,50,1710748786,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/8-model_state_fetch_first.py"
-'7  2  97  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/7-model_state_fetch_all.sql
-|4,55,2,97,1710748762,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/7-model_state_fetch_all.sql"
-'8  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/7-model_state_fetch_all.py
-|4,56,17,50,1710748737,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/7-model_state_fetch_all.py"
-'9  4  24  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/6-model_state.sql
-|4,57,4,24,1710748710,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/6-model_state.sql"
+'0  126  0  ~/AirBnB_clone_v2/web_static/styles/8-places.css
+|4,48,126,0,1710946288,"~/AirBnB_clone_v2/web_static/styles/8-places.css"
+'1  32  0  ~/AirBnB_clone_v2/web_static/styles/7-places.css
+|4,49,32,0,1710946258,"~/AirBnB_clone_v2/web_static/styles/7-places.css"
+'2  101  0  ~/AirBnB_clone_v2/web_static/styles/6-filters.css
+|4,50,101,0,1710946234,"~/AirBnB_clone_v2/web_static/styles/6-filters.css"
+'3  61  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
+|4,51,61,0,1710946210,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
+'4  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,52,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+'5  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,53,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+'6  18  0  ~/AirBnB_clone_v2/web_static/styles/3-header.css
+|4,54,18,0,1710945486,"~/AirBnB_clone_v2/web_static/styles/3-header.css"
+'7  10  0  ~/AirBnB_clone_v2/web_static/styles/3-footer.css
+|4,55,10,0,1710945456,"~/AirBnB_clone_v2/web_static/styles/3-footer.css"
+'8  8  0  ~/AirBnB_clone_v2/web_static/styles/3-common.css
+|4,56,8,0,1710945427,"~/AirBnB_clone_v2/web_static/styles/3-common.css"
+'9  5  0  ~/AirBnB_clone_v2/web_static/styles/2-header.css
+|4,57,5,0,1710945399,"~/AirBnB_clone_v2/web_static/styles/2-header.css"
 
 # Jumplist (newest first):
--'  20  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_state.py
-|4,39,20,50,1710748931,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_state.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_state.py
-|4,39,1,0,1710748922,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_state.py"
--'  17  70  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_city.py
-|4,39,17,70,1710748908,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_city.py"
--'  17  70  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_city.py
-|4,39,17,70,1710748908,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_city.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_city.py
-|4,39,1,0,1710748900,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_city.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_city.py
-|4,39,1,0,1710748900,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_city.py"
--'  18  45  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_state.py
-|4,39,18,45,1710748887,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_state.py"
--'  18  45  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_state.py
-|4,39,18,45,1710748887,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_state.py"
--'  18  45  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_state.py
-|4,39,18,45,1710748887,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_state.py"
--'  18  45  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_state.py
-|4,39,18,45,1710748887,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_state.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_state.py
-|4,39,1,0,1710748879,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_state.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_state.py
-|4,39,1,0,1710748879,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_state.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_state.py
-|4,39,1,0,1710748879,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_state.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_state.py
-|4,39,1,0,1710748879,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_state.py"
--'  17  70  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py
-|4,39,17,70,1710748865,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py"
--'  17  70  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py
-|4,39,17,70,1710748865,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py"
--'  17  70  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py
-|4,39,17,70,1710748865,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py"
--'  17  70  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py
-|4,39,17,70,1710748865,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py"
--'  17  70  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py
-|4,39,17,70,1710748865,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py"
--'  17  70  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py
-|4,39,17,70,1710748865,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py"
--'  17  70  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py
-|4,39,17,70,1710748865,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py"
--'  17  70  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py
-|4,39,17,70,1710748865,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py
-|4,39,1,0,1710748858,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py
-|4,39,1,0,1710748858,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py
-|4,39,1,0,1710748858,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py
-|4,39,1,0,1710748858,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py
-|4,39,1,0,1710748858,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py
-|4,39,1,0,1710748858,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py
-|4,39,1,0,1710748858,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py
-|4,39,1,0,1710748858,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py"
--'  167  47  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,167,47,1710748842,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  167  47  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,167,47,1710748842,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  167  47  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,167,47,1710748842,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  167  47  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,167,47,1710748842,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  167  47  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,167,47,1710748842,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  167  47  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,167,47,1710748842,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  167  47  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,167,47,1710748842,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  167  47  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,167,47,1710748842,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  167  47  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,167,47,1710748842,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  167  47  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,167,47,1710748842,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  167  47  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,167,47,1710748842,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  167  47  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,167,47,1710748842,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  167  47  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,167,47,1710748842,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  167  47  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,167,47,1710748842,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  167  47  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,167,47,1710748842,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  167  47  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,167,47,1710748842,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,1,0,1710748831,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,1,0,1710748831,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,1,0,1710748831,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,1,0,1710748831,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,1,0,1710748831,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,1,0,1710748831,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,1,0,1710748831,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,1,0,1710748831,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,1,0,1710748831,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,1,0,1710748831,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,1,0,1710748831,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,1,0,1710748831,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,1,0,1710748831,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,1,0,1710748831,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,1,0,1710748831,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-|4,39,1,0,1710748831,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  17  50  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,17,50,1710748811,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,1,0,1710748802,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,1,0,1710748802,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,1,0,1710748802,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,1,0,1710748802,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,1,0,1710748802,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
--'  1  0  ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-|4,39,1,0,1710748802,"~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py"
+-'  126  0  ~/AirBnB_clone_v2/web_static/styles/8-places.css
+|4,39,126,0,1710946288,"~/AirBnB_clone_v2/web_static/styles/8-places.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/8-places.css
+|4,39,1,0,1710946277,"~/AirBnB_clone_v2/web_static/styles/8-places.css"
+-'  32  0  ~/AirBnB_clone_v2/web_static/styles/7-places.css
+|4,39,32,0,1710946258,"~/AirBnB_clone_v2/web_static/styles/7-places.css"
+-'  32  0  ~/AirBnB_clone_v2/web_static/styles/7-places.css
+|4,39,32,0,1710946258,"~/AirBnB_clone_v2/web_static/styles/7-places.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/7-places.css
+|4,39,1,0,1710946246,"~/AirBnB_clone_v2/web_static/styles/7-places.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/7-places.css
+|4,39,1,0,1710946246,"~/AirBnB_clone_v2/web_static/styles/7-places.css"
+-'  101  0  ~/AirBnB_clone_v2/web_static/styles/6-filters.css
+|4,39,101,0,1710946234,"~/AirBnB_clone_v2/web_static/styles/6-filters.css"
+-'  101  0  ~/AirBnB_clone_v2/web_static/styles/6-filters.css
+|4,39,101,0,1710946234,"~/AirBnB_clone_v2/web_static/styles/6-filters.css"
+-'  101  0  ~/AirBnB_clone_v2/web_static/styles/6-filters.css
+|4,39,101,0,1710946234,"~/AirBnB_clone_v2/web_static/styles/6-filters.css"
+-'  101  0  ~/AirBnB_clone_v2/web_static/styles/6-filters.css
+|4,39,101,0,1710946234,"~/AirBnB_clone_v2/web_static/styles/6-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/6-filters.css
+|4,39,1,0,1710946223,"~/AirBnB_clone_v2/web_static/styles/6-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/6-filters.css
+|4,39,1,0,1710946223,"~/AirBnB_clone_v2/web_static/styles/6-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/6-filters.css
+|4,39,1,0,1710946223,"~/AirBnB_clone_v2/web_static/styles/6-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/6-filters.css
+|4,39,1,0,1710946223,"~/AirBnB_clone_v2/web_static/styles/6-filters.css"
+-'  61  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
+|4,39,61,0,1710946210,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
+-'  61  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
+|4,39,61,0,1710946210,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
+-'  61  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
+|4,39,61,0,1710946210,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
+-'  61  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
+|4,39,61,0,1710946210,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
+-'  61  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
+|4,39,61,0,1710946210,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
+-'  61  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
+|4,39,61,0,1710946210,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
+-'  61  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
+|4,39,61,0,1710946210,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
+-'  61  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
+|4,39,61,0,1710946210,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
+|4,39,1,0,1710946199,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
+|4,39,1,0,1710946199,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
+|4,39,1,0,1710946199,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
+|4,39,1,0,1710946199,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
+|4,39,1,0,1710946199,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
+|4,39,1,0,1710946199,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
+|4,39,1,0,1710946199,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
+|4,39,1,0,1710946199,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
+-'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,1,0,1710945514,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,1,0,1710945514,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,1,0,1710945514,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,1,0,1710945514,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,1,0,1710945514,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
+|4,39,1,0,1710945514,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
 
 # History of marks within files (newest to oldest):
+
+> ~/AirBnB_clone_v2/web_static/styles/8-places.css
+	*	1710946286	0
+	"	126	0
+	^	126	1
+	.	126	0
+	+	126	0
+
+> ~/AirBnB_clone_v2/web_static/styles/7-places.css
+	*	1710946256	0
+	"	32	0
+	^	32	1
+	.	32	0
+	+	32	0
+
+> ~/AirBnB_clone_v2/web_static/styles/6-filters.css
+	*	1710946231	0
+	"	101	0
+	^	101	1
+	.	101	0
+	+	101	0
+
+> ~/AirBnB_clone_v2/web_static/styles/5-filters.css
+	*	1710946208	0
+	"	61	0
+	^	61	1
+	.	61	0
+	+	61	0
+
+> ~/AirBnB_clone_v2/web_static/styles/4-filters.css
+	*	1710946182	0
+	"	27	0
+	^	27	1
+	.	27	0
+	+	27	0
+
+> ~/AirBnB_clone_v2/web_static/styles/4-common.css
+	*	1710945520	0
+	"	13	0
+	^	13	1
+	.	13	0
+	+	13	0
+
+> ~/AirBnB_clone_v2/web_static/styles/3-header.css
+	*	1710945483	0
+	"	18	0
+	^	18	1
+	.	18	0
+	+	18	0
+
+> ~/AirBnB_clone_v2/web_static/styles/3-footer.css
+	*	1710945453	0
+	"	10	0
+	^	10	1
+	.	10	0
+	+	10	0
+
+> ~/AirBnB_clone_v2/web_static/styles/3-common.css
+	*	1710945425	0
+	"	8	0
+	^	8	1
+	.	8	0
+	+	8	0
+
+> ~/AirBnB_clone_v2/web_static/styles/2-header.css
+	*	1710945397	0
+	"	5	0
+	^	5	1
+	.	5	0
+	+	5	0
+
+> ~/AirBnB_clone_v2/web_static/styles/2-footer.css
+	*	1710945374	0
+	"	9	0
+	^	9	1
+	.	9	0
+	+	9	0
+
+> ~/AirBnB_clone_v2/web_static/styles/2-common.css
+	*	1710945353	0
+	"	4	0
+	^	4	1
+	.	4	0
+	+	4	0
+
+> ~/AirBnB_clone_v2/web_static/styles/103-places.css
+	*	1710945331	0
+	"	209	0
+	^	209	1
+	.	209	0
+	+	209	0
+
+> ~/AirBnB_clone_v2/web_static/styles/103-header.css
+	*	1710945302	0
+	"	18	0
+	^	18	1
+	.	18	0
+	+	18	0
+
+> ~/AirBnB_clone_v2/web_static/styles/103-footer.css
+	*	1710945281	0
+	"	10	0
+	^	10	1
+	.	10	0
+	+	10	0
+
+> ~/AirBnB_clone_v2/web_static/styles/103-filters.css
+	*	1710945259	0
+	"	101	0
+	^	101	1
+	.	101	0
+	+	101	0
+
+> ~/AirBnB_clone_v2/web_static/styles/103-common.css
+	*	1710945237	0
+	"	13	0
+	^	13	1
+	.	13	0
+	+	13	0
+
+> ~/AirBnB_clone_v2/web_static/styles/102-places.css
+	*	1710945214	0
+	"	209	0
+	^	209	1
+	.	209	0
+	+	209	0
+
+> ~/AirBnB_clone_v2/web_static/styles/102-header.css
+	*	1710945183	0
+	"	18	0
+	^	18	1
+	.	18	0
+	+	18	0
+
+> ~/AirBnB_clone_v2/web_static/styles/102-footer.css
+	*	1710945155	0
+	"	10	0
+	^	10	1
+	.	10	0
+	+	10	0
+
+> ~/AirBnB_clone_v2/web_static/styles/102-filters.css
+	*	1710945133	0
+	"	101	0
+	^	101	1
+	.	101	0
+	+	101	0
+
+> ~/AirBnB_clone_v2/web_static/styles/102-common.css
+	*	1710945107	0
+	"	13	0
+	^	13	1
+	.	13	0
+	+	13	0
+
+> ~/AirBnB_clone_v2/web_static/styles/101-places.css
+	*	1710945084	0
+	"	209	0
+	^	209	1
+	.	209	0
+	+	209	0
+
+> ~/AirBnB_clone_v2/web_static/styles/100-places.css
+	*	1710945050	0
+	"	209	0
+	^	209	1
+	.	209	0
+	+	209	0
+
+> ~/AirBnB_clone_v2/web_static/README.md
+	*	1710925197	0
+	"	1	40
+	^	1	41
+	.	1	40
+	+	1	40
+
+> ~/AirBnB_clone_v2/web_static/8-index.html
+	*	1710925178	0
+	"	129	6
+	^	129	7
+	.	129	6
+	+	129	6
+
+> ~/AirBnB_clone_v2/web_static/7-index.html
+	*	1710925154	0
+	"	66	6
+	^	66	7
+	.	66	6
+	+	66	6
+
+> ~/AirBnB_clone_v2/web_static/6-index.html
+	*	1710925132	0
+	"	53	6
+	^	53	7
+	.	53	6
+	+	53	6
+
+> ~/AirBnB_clone_v2/web_static/5-index.html
+	*	1710925111	0
+	"	35	6
+	^	35	7
+	.	35	6
+	+	35	6
+
+> ~/AirBnB_clone_v2/web_static/4-index.html
+	*	1710925093	0
+	"	26	6
+	^	26	7
+	.	26	6
+	+	26	6
+
+> ~/AirBnB_clone_v2/web_static/3-index.html
+	*	1710925072	0
+	"	21	6
+	^	21	7
+	.	21	6
+	+	21	6
+
+> ~/AirBnB_clone_v2/web_static/2-index.html
+	*	1710925050	0
+	"	18	6
+	^	18	7
+	.	18	6
+	+	18	6
+
+> ~/AirBnB_clone_v2/web_static/103-index.html
+	*	1710925024	0
+	"	195	6
+	^	195	7
+	.	195	6
+	+	195	6
+
+> ~/AirBnB_clone_v2/web_static/102-index.html
+	*	1710924998	0
+	"	195	6
+	^	195	7
+	.	195	6
+	+	195	6
+
+> ~/AirBnB_clone_v2/web_static/101-index.html
+	*	1710924977	0
+	"	195	6
+	^	195	7
+	.	195	6
+	+	195	6
+
+> ~/AirBnB_clone_v2/web_static/100-index.html
+	*	1710924951	0
+	"	195	6
+	^	195	7
+	.	195	6
+	+	195	6
+
+> ~/AirBnB_clone_v2/web_static/1-index.html
+	*	1710924931	0
+	"	21	6
+	^	21	7
+	.	21	6
+	+	21	6
+
+> ~/AirBnB_clone_v2/web_static/0-index.html
+	*	1710924913	0
+	"	14	6
+	^	14	7
+	.	14	6
+	+	14	6
+
+> ~/AirBnB_clone_v2/web_flask/templates/9-states.html
+	*	1710924818	0
+	"	26	6
+	^	26	7
+	.	26	6
+	+	26	6
+
+> ~/AirBnB_clone_v2/web_flask/templates/8-cities_by_states.html
+	*	1710924795	0
+	"	20	6
+	^	20	7
+	.	20	6
+	+	20	6
+
+> ~/AirBnB_clone_v2/web_flask/templates/7-states_list.html
+	*	1710924772	0
+	"	15	6
+	^	15	7
+	.	15	6
+	+	15	6
+
+> ~/AirBnB_clone_v2/web_flask/templates/6-number_odd_or_even.html
+	*	1710924751	0
+	"	13	6
+	^	13	7
+	.	13	6
+	+	13	6
+
+> ~/AirBnB_clone_v2/web_flask/templates/5-number.html
+	*	1710924727	0
+	"	9	6
+	^	9	7
+	.	9	6
+	+	9	6
+
+> ~/AirBnB_clone_v2/web_flask/templates/100-hbnb.html
+	*	1710924703	0
+	"	113	6
+	^	113	7
+	.	113	6
+	+	113	6
+
+> ~/AirBnB_clone_v2/web_flask/templates/10-hbnb_filters.htm
+	*	1710924682	0
+	"	53	6
+	^	53	7
+	.	53	6
+	+	53	6
+
+> ~/AirBnB_clone_v2/web_flask/README.md
+	*	1710924635	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
+
+> ~/AirBnB_clone_v2/web_flask/9-states.py
+	*	1710924613	0
+	"	42	26
+	^	42	27
+	.	42	26
+	+	42	26
+
+> ~/AirBnB_clone_v2/web_flask/8-cities_by_states.py
+	*	1710924592	0
+	"	32	26
+	^	32	27
+	.	32	26
+	+	32	26
+
+> ~/AirBnB_clone_v2/web_flask/7-states_list.py
+	*	1710924569	0
+	"	32	26
+	^	32	27
+	.	32	26
+	+	32	26
+
+> ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
+	*	1710924549	0
+	"	82	26
+	^	82	27
+	.	82	26
+	+	82	26
+
+> ~/AirBnB_clone_v2/web_flask/5-number_template.py
+	*	1710924525	0
+	"	65	26
+	^	65	27
+	.	65	26
+	+	65	26
+
+> ~/AirBnB_clone_v2/web_flask/4-number_route.py
+	*	1710924503	0
+	"	58	26
+	^	58	27
+	.	58	26
+	+	58	26
+
+> ~/AirBnB_clone_v2/web_flask/3-python_route.py
+	*	1710924483	0
+	"	50	26
+	^	50	27
+	.	50	26
+	+	50	26
+
+> ~/AirBnB_clone_v2/web_flask/2-c_route.py
+	*	1710924457	0
+	"	35	26
+	^	35	27
+	.	35	26
+	+	35	26
+
+> ~/AirBnB_clone_v2/web_flask/100-hbnb.py
+	*	1710924437	0
+	"	32	26
+	^	32	27
+	.	32	26
+	+	32	26
+
+> ~/AirBnB_clone_v2/web_flask/10-hbnb_filters.py
+	*	1710924415	0
+	"	31	26
+	^	31	27
+	.	31	26
+	+	31	26
+
+> ~/AirBnB_clone_v2/web_flask/1-hbnb_route.py
+	*	1710924343	0
+	"	27	26
+	^	27	27
+	.	27	26
+	+	27	26
+
+> ~/AirBnB_clone_v2/web_flask/0-hello_route.py
+	*	1710924314	0
+	"	20	26
+	^	20	27
+	.	20	26
+	+	20	26
+
+> ~/AirBnB_clone_v2/tests/test_models/test_engine/test_file_storage.py
+	*	1710924229	0
+	"	109	51
+	^	109	52
+	.	109	51
+	+	109	51
+
+> ~/AirBnB_clone_v2/tests/test_models/test_engine/test_db_storage.py
+	*	1710924200	0
+	"	130	63
+	^	130	64
+	.	130	63
+	+	130	63
+
+> ~/AirBnB_clone_v2/tests/test_models/test_engine/__init__.py
+	*	1710924166	0
+	"	1	0
+
+> ~/AirBnB_clone_v2/tests/test_models/test_user.py
+	*	1710924124	0
+	"	34	48
+	^	34	49
+	.	34	48
+	+	34	48
+
+> ~/AirBnB_clone_v2/tests/test_models/test_state.py
+	*	1710924101	0
+	"	19	44
+	^	19	45
+	.	19	44
+	+	19	44
+
+> ~/AirBnB_clone_v2/tests/test_models/test_review.py
+	*	1710924078	0
+	"	29	44
+	^	29	45
+	.	29	44
+	+	29	44
+
+> ~/AirBnB_clone_v2/tests/test_models/test_place.py
+	*	1710924012	0
+	"	69	52
+	^	69	53
+	.	69	52
+	+	69	52
+
+> ~/AirBnB_clone_v2/tests/test_models/test_city.py
+	*	1710923988	0
+	"	99	18
+	^	99	19
+	.	99	18
+	+	99	18
+
+> ~/AirBnB_clone_v2/tests/test_models/test_base_model.py
+	*	1710923960	0
+	"	223	18
+	^	223	19
+	.	223	18
+	+	223	18
+
+> ~/AirBnB_clone_v2/tests/test_models/test_amenity.py
+	*	1710923923	0
+	"	174	45
+	^	174	46
+	.	174	45
+	+	174	45
+
+> ~/AirBnB_clone_v2/tests/test_models/__init__.py
+	*	1710923895	0
+	"	1	0
+
+> ~/AirBnB_clone_v2/tests/__init__.py
+	*	1710923850	0
+	"	1	0
+
+> ~/AirBnB_clone_v2/models/engine/file_storage.py
+	*	1710923737	0
+	"	80	20
+	^	80	21
+	.	80	20
+	+	80	20
+
+> ~/AirBnB_clone_v2/models/engine/db_storage.py
+	*	1710923707	0
+	"	84	29
+	^	84	30
+	.	84	29
+	+	84	29
+
+> ~/AirBnB_clone_v2/models/engine/__init__.py
+	*	1710923620	0
+	"	1	0
+
+> ~/AirBnB_clone_v2/models/user.py
+	*	1710923578	0
+	"	27	41
+	^	27	42
+	.	27	41
+	+	27	41
+
+> ~/AirBnB_clone_v2/models/state.py
+	*	1710923557	0
+	"	35	22
+	^	35	23
+	.	35	22
+	+	35	22
+
+> ~/AirBnB_clone_v2/models/review.py
+	*	1710923531	0
+	"	18	71
+	^	18	72
+	.	18	71
+	+	18	71
+
+> ~/AirBnB_clone_v2/models/place.py
+	*	1710923508	0
+	"	83	46
+	^	83	47
+	.	83	46
+	+	83	46
+
+> ~/AirBnB_clone_v2/models/city.py
+	*	1710923468	0
+	"	21	42
+	^	21	43
+	.	21	42
+	+	21	42
+
+> ~/AirBnB_clone_v2/models/base_model.py
+	*	1710923446	0
+	"	83	34
+	^	83	35
+	.	83	34
+	+	83	34
+
+> ~/AirBnB_clone_v2/models/amenity.py
+	*	1710923422	0
+	"	16	67
+	^	16	68
+	.	16	67
+	+	16	67
+
+> ~/AirBnB_clone_v2/models/__init__.py
+	*	1710923396	0
+	"	19	15
+	^	19	16
+	.	19	15
+	+	19	15
+
+> ~/AirBnB_clone_v2/README.md
+	*	1710923307	0
+	"	142	3
+	^	142	4
+	.	142	3
+	+	142	3
+
+> ~/AirBnB_clone_v2/AUTHORS
+	*	1710923284	0
+	"	5	34
+	^	5	35
+	.	5	34
+	+	5	34
+
+> ~/AirBnB_clone_v2/3-deploy_web_static.py
+	*	1710923250	0
+	"	76	25
+	^	76	26
+	.	76	25
+	+	76	25
+
+> ~/AirBnB_clone_v2/2-do_deploy_web_static.py
+	*	1710923211	0
+	"	49	14
+	^	49	15
+	.	49	14
+	+	49	14
+
+> ~/AirBnB_clone_v2/101-setup_web_static.pp
+	*	1710923177	0
+	"	91	0
+	^	91	1
+	.	91	0
+	+	91	0
+
+> ~/AirBnB_clone_v2/100-clean_web_static.py
+	*	1710923153	0
+	"	30	55
+	^	30	56
+	.	30	55
+	+	30	55
+
+> ~/AirBnB_clone_v2/1-pack_web_static.py
+	*	1710923120	0
+	"	22	14
+	^	22	15
+	.	22	14
+	+	22	14
+
+> ~/AirBnB_clone_v2/0-setup_web_static.sh
+	*	1710923085	0
+	"	38	20
+	^	38	21
+	.	38	20
+	+	38	20
 
 > ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_state.py
 	*	1710748928	0
@@ -355,629 +966,3 @@
 	^	11	36
 	.	11	35
 	+	11	35
-
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/5-filter_cities.py
-	*	1710748664	0
-	"	18	13
-	^	18	14
-	.	18	13
-	+	18	13
-
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/4-cities_by_state.sql
-	*	1710748638	0
-	"	22	110
-	^	22	111
-	.	22	110
-	+	22	110
-
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/4-cities_by_state.py
-	*	1710748611	0
-	"	17	13
-	^	17	14
-	.	17	13
-	+	17	13
-
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/3-my_safe_filter_states.py
-	*	1710748588	0
-	"	17	13
-	^	17	14
-	.	17	13
-	+	17	13
-
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/2-my_filter_states.py
-	*	1710748561	0
-	"	17	13
-	^	17	14
-	.	17	13
-	+	17	13
-
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/14-model_city_fetch_by_state.sql
-	*	1710748535	0
-	"	23	110
-	^	23	111
-	.	23	110
-	+	23	110
-
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/14-model_city_fetch_by_state.py
-	*	1710748510	0
-	"	19	73
-	^	19	74
-	.	19	73
-	+	19	73
-
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/13-model_state_delete_a.py
-	*	1710748479	0
-	"	18	19
-	^	18	20
-	.	18	19
-	+	18	19
-
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/12-model_state_update_id_2.py
-	*	1710748447	0
-	"	18	19
-	^	18	20
-	.	18	19
-	+	18	19
-
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/11-model_state_insert.py
-	*	1710748424	0
-	"	20	19
-	^	20	20
-	.	20	19
-	+	20	19
-
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/102-relationship_cities_states_list.py
-	*	1710748396	0
-	"	21	40
-	^	21	41
-	.	21	40
-	+	21	40
-
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/101-relationship_states_cities_list.py
-	*	1710748371	0
-	"	22	54
-	^	22	55
-	.	22	54
-	+	22	54
-
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/100-relationship_states_cities.sql
-	*	1710748349	0
-	"	6	20
-	^	6	21
-	.	6	20
-	+	6	20
-
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/100-relationship_states_cities.py
-	*	1710748327	0
-	"	27	19
-	^	27	20
-	.	27	19
-	+	27	19
-
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/10-model_state_my_get.py
-	*	1710748273	0
-	"	20	25
-	^	20	26
-	.	20	25
-	+	20	25
-
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/1-filter_states.py
-	*	1710748247	0
-	"	17	13
-	^	17	14
-	.	17	13
-	+	17	13
-
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/0-select_states.sql
-	*	1710748222	0
-	"	9	97
-	^	9	98
-	.	9	97
-	+	9	97
-
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/0-select_states.py
-	*	1710748195	0
-	"	16	13
-	^	16	14
-	.	16	13
-	+	16	13
-
-> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/README.md
-	*	1710241772	0
-	"	64	40
-	^	64	41
-	.	64	40
-	+	1	45
-	+	64	40
-
-> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/9-logme.js
-	*	1710240187	0
-	"	7	1
-	^	7	2
-	.	7	1
-	+	7	1
-
-> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/8-esrever.js
-	*	1710240160	0
-	"	13	1
-	^	13	2
-	.	13	1
-	+	13	1
-
-> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/7-occurrences.js
-	*	1710240128	0
-	"	10	1
-	^	10	2
-	.	10	1
-	+	10	1
-
-> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/6-square.js
-	*	1710240090	0
-	"	19	23
-	^	19	24
-	.	19	23
-	+	19	23
-
-> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/5-square.js
-	*	1710240058	0
-	"	10	23
-	^	10	24
-	.	10	23
-	+	10	23
-
-> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/4-rectangle.js
-	*	1710240012	0
-	"	32	26
-	^	32	27
-	.	32	26
-	+	32	26
-
-> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/3-rectangle.js
-	*	1710239970	0
-	"	21	26
-	^	21	27
-	.	21	26
-	+	21	26
-
-> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/2-rectangle.js
-	*	1710239932	0
-	"	11	26
-	^	11	27
-	.	11	26
-	+	11	26
-
-> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/102-concat.js
-	*	1710239889	0
-	"	6	46
-	^	6	47
-	.	6	46
-	+	6	46
-
-> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/101-sorted.js
-	*	1710239858	0
-	"	17	20
-	^	17	21
-	.	17	20
-	+	17	20
-
-> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/100-map.js
-	*	1710239755	0
-	"	4	52
-	^	4	53
-	.	4	52
-	+	4	52
-
-> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/10-converter.js
-	*	1710239515	0
-	"	7	1
-	^	7	2
-	.	7	1
-	+	7	1
-
-> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/1-rectangle.js
-	*	1710239458	0
-	"	9	26
-	^	9	27
-	.	9	26
-	+	9	26
-
-> ~/alx-higher_level_programming/0x13-javascript_objects_scopes_closures/0-rectangle.js
-	*	1710239407	0
-	"	5	26
-	^	5	27
-	.	5	26
-	+	5	26
-
-> ~/alx-higher_level_programming/0x12-javascript-warm_up/README.md
-	*	1710151560	0
-	"	26	138
-	^	26	139
-	.	26	138
-	+	26	138
-
-> ~/alx-higher_level_programming/0x12-javascript-warm_up/9-add.js
-	*	1710151532	0
-	"	7	53
-	^	7	54
-	.	7	53
-	+	7	53
-
-> ~/alx-higher_level_programming/0x12-javascript-warm_up/8-square.js
-	*	1710151503	0
-	"	11	0
-	^	11	1
-	.	11	0
-	+	11	0
-
-> ~/alx-higher_level_programming/0x12-javascript-warm_up/7-multi_c.js
-	*	1710151452	0
-	"	11	0
-	^	11	1
-	.	11	0
-	+	11	0
-
-> ~/alx-higher_level_programming/0x12-javascript-warm_up/6-multi_languages_loop.js
-	*	1710151390	0
-	"	4	0
-	^	4	1
-	.	4	0
-	+	4	0
-
-> ~/alx-higher_level_programming/0x12-javascript-warm_up/5-to_integer.js
-	*	1710151334	0
-	"	6	0
-	^	6	1
-	.	6	0
-	+	6	0
-
-> ~/alx-higher_level_programming/0x12-javascript-warm_up/4-concat.js
-	*	1710151307	0
-	"	2	55
-	^	2	56
-	.	2	55
-	+	2	55
-
-> ~/alx-higher_level_programming/0x12-javascript-warm_up/3-value_argument.js
-	*	1710151279	0
-	"	6	0
-	^	6	1
-	.	6	0
-	+	6	0
-
-> ~/alx-higher_level_programming/0x12-javascript-warm_up/2-arguments.js
-	*	1710151249	0
-	"	8	0
-	^	8	1
-	.	8	0
-	+	8	0
-
-> ~/alx-higher_level_programming/0x12-javascript-warm_up/13-add.js
-	*	1710151203	0
-	"	4	1
-	^	4	2
-	.	4	1
-	+	4	1
-
-> ~/alx-higher_level_programming/0x12-javascript-warm_up/12-object.js
-	*	1710150840	0
-	"	8	21
-	^	8	22
-	.	8	21
-	+	8	21
-
-> ~/alx-higher_level_programming/0x12-javascript-warm_up/11-second_biggest.js
-	*	1710150802	0
-	"	8	0
-	^	8	1
-	.	8	0
-	+	8	0
-
-> ~/alx-higher_level_programming/0x12-javascript-warm_up/103-object_fct.js
-	*	1710150776	0
-	"	15	21
-	^	15	22
-	.	15	21
-	+	15	21
-
-> ~/alx-higher_level_programming/0x12-javascript-warm_up/102-add_me_maybe.js
-	*	1710150721	0
-	"	4	1
-	^	4	2
-	.	4	1
-	+	4	1
-
-> ~/alx-higher_level_programming/0x12-javascript-warm_up/101-call_me_moby.js
-	*	1710150681	0
-	"	6	0
-	^	6	2
-	.	6	1
-	+	6	1
-
-> ~/alx-higher_level_programming/0x12-javascript-warm_up/100-let_me_const.js
-	*	1710150579	0
-	"	2	11
-	^	2	12
-	.	2	11
-	+	2	11
-
-> ~/alx-higher_level_programming/0x12-javascript-warm_up/10-factorial.js
-	*	1710150544	0
-	"	12	47
-	^	12	48
-	.	12	47
-	+	12	47
-
-> ~/alx-higher_level_programming/0x12-javascript-warm_up/1-multi_languages.js
-	*	1710150497	0
-	"	4	36
-	^	4	37
-	.	4	36
-	+	4	36
-
-> ~/alx-higher_level_programming/0x12-javascript-warm_up/0-javascript_is_amazing.js
-	*	1710150432	0
-	"	3	18
-	^	3	19
-	.	3	18
-	+	3	18
-
-> ~/binary_trees/134-heap_to_sorted_array.c
-	*	1709210012	0
-	"	53	0
-	^	53	1
-	.	53	1
-	+	1	0
-	+	53	1
-
-> ~/binary_trees/133-heap_extract.c
-	*	1709209731	0
-	"	140	0
-	^	140	1
-	.	140	1
-	+	1	0
-	+	140	1
-
-> ~/binary_trees/tests/9-main.c
-	*	1709198941	0
-	"	29	0
-	^	29	1
-	.	29	0
-	+	29	0
-
-> ~/binary_trees/tests/8-main.c
-	*	1709198916	0
-	"	35	0
-	^	35	1
-	.	35	0
-	+	35	0
-
-> ~/binary_trees/tests/7-main.c
-	*	1709198896	0
-	"	34	0
-	^	34	1
-	.	34	0
-	+	34	0
-
-> ~/binary_trees/tests/6-main.c
-	*	1709198873	0
-	"	35	0
-	^	35	1
-	.	35	0
-	+	35	0
-
-> ~/binary_trees/tests/5-main.c
-	*	1709198847	0
-	"	29	0
-	^	29	1
-	.	29	0
-	+	29	0
-
-> ~/binary_trees/tests/4-main.c
-	*	1709198825	0
-	"	29	0
-	^	29	1
-	.	29	0
-	+	29	0
-
-> ~/binary_trees/tests/3-main.c
-	*	1709198799	0
-	"	23	0
-	^	23	0
-	.	22	1
-	+	22	1
-
-> ~/binary_trees/tests/2-main.c
-	*	1709198778	0
-	"	23	0
-	^	23	1
-	.	23	0
-	+	23	0
-
-> ~/binary_trees/tests/18-main.c
-	*	1709198756	0
-	"	33	0
-	^	33	1
-	.	33	0
-	+	33	0
-
-> ~/binary_trees/tests/17-main.c
-	*	1709198727	0
-	"	35	0
-	^	35	1
-	.	35	0
-	+	35	0
-
-> ~/binary_trees/tests/16-main.c
-	*	1709198699	0
-	"	37	0
-	^	37	1
-	.	37	0
-	+	37	0
-
-> ~/binary_trees/tests/15-main.c
-	*	1709198676	0
-	"	30	0
-	^	30	1
-	.	30	0
-	+	30	0
-
-> ~/binary_trees/tests/14-main.c
-	*	1709198654	0
-	"	33	0
-	^	33	1
-	.	33	0
-	+	33	0
-
-> ~/binary_trees/tests/134-main.c
-	*	1709198630	0
-	"	51	0
-	^	51	1
-	.	51	0
-	+	51	0
-
-> ~/binary_trees/tests/133-main.c
-	*	1709198609	0
-	"	38	0
-	^	38	1
-	.	38	0
-	+	38	0
-
-> ~/binary_trees/tests/132-main.c
-	*	1709198587	0
-	"	23	0
-	^	23	1
-	.	23	0
-	+	23	0
-
-> ~/binary_trees/tests/131-main.c
-	*	1709198565	0
-	"	41	0
-	^	41	1
-	.	41	0
-	+	41	0
-
-> ~/binary_trees/tests/130-main.c
-	*	1709198542	0
-	"	51	0
-	^	51	1
-	.	51	0
-	+	51	0
-
-> ~/binary_trees/tests/13-main.c
-	*	1709198511	0
-	"	29	0
-	^	29	1
-	.	29	0
-	+	29	0
-
-> ~/binary_trees/tests/124-main.c
-	*	1709198475	0
-	"	40	0
-	^	40	1
-	.	40	0
-	+	40	0
-
-> ~/binary_trees/tests/123-main.c
-	*	1709198436	0
-	"	44	0
-	^	44	1
-	.	44	0
-	+	44	0
-
-> ~/binary_trees/tests/122-main.c
-	*	1709198402	0
-	"	23	0
-	^	23	1
-	.	23	0
-	+	23	0
-
-> ~/binary_trees/tests/121-main.c
-	*	1709198372	0
-	"	41	0
-	^	41	1
-	.	41	0
-	+	41	0
-
-> ~/binary_trees/tests/120-main.c
-	*	1709198343	0
-	"	58	0
-	^	58	1
-	.	58	0
-	+	58	0
-
-> ~/binary_trees/tests/12-main.c
-	*	1709198313	0
-	"	29	0
-	^	29	1
-	.	29	0
-	+	29	0
-
-> ~/binary_trees/tests/114-main.c
-	*	1709198288	0
-	"	37	0
-	^	37	1
-	.	37	0
-	+	37	0
-
-> ~/binary_trees/tests/113-main.c
-	*	1709198259	0
-	"	30	0
-	^	30	1
-	.	30	0
-	+	30	0
-
-> ~/binary_trees/tests/112-main.c
-	*	1709198229	0
-	"	23	0
-	^	23	1
-	.	23	0
-	+	23	0
-
-> ~/binary_trees/tests/111-main.c
-	*	1709198183	0
-	"	36	0
-	^	36	1
-	.	36	0
-	+	36	0
-
-> ~/binary_trees/tests/110-main.c
-	*	1709198145	0
-	"	33	0
-	^	33	1
-	.	33	0
-	+	33	0
-
-> ~/binary_trees/tests/11-main.c
-	*	1709198121	0
-	"	29	0
-	^	29	1
-	.	29	0
-	+	29	0
-
-> ~/binary_trees/tests/104-main.c
-	*	1709198097	0
-	"	30	0
-	^	30	1
-	.	30	0
-	+	30	0
-
-> ~/binary_trees/tests/103-main.c
-	*	1709198055	0
-	"	30	0
-	^	30	1
-	.	30	0
-	+	30	0
-
-> ~/binary_trees/tests/102-main.c
-	*	1709198002	0
-	"	45	0
-	^	45	1
-	.	45	0
-	+	45	0
-
-> ~/binary_trees/tests/101-main.c
-	*	1709197974	0
-	"	36	0
-	^	36	1
-	.	36	0
-	+	36	0
