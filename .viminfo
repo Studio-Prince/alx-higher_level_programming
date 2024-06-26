@@ -12,17 +12,19 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1710946288,,"wq"
-:q!
-|2,0,1710924387,,"q!"
-:q
-|2,0,1710151079,,"q"
-:!q
-|2,0,1710151070,,"!q"
-:wq4
-|2,0,1709196767,,"wq4"
+|2,0,1719390430,,"wq"
 :WQ
-|2,0,1708815498,,"WQ"
+|2,0,1719380364,,"WQ"
+:;;;
+|2,0,1714693362,,";;;"
+:q!
+|2,0,1713859432,,"q!"
+:q
+|2,0,1713859420,,"q"
+:!q
+|2,0,1713859414,,"!q"
+:wq4
+|2,0,1713279397,,"wq4"
 :w 11-genre_id_all_shows.sql
 |2,0,1707911192,,"w 11-genre_id_all_shows.sql"
 :w 0-print_list_integer.py
@@ -49,920 +51,1010 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""-	CHAR	0
-	R
-|3,1,36,0,1,0,1710240468,"R"
+""1	LINE	0
+	#!/usr/bin/python3
+|3,1,1,1,1,0,1715320392,"#!/usr/bin/python3"
+"2	LINE	0
+	"""Function to count words in all hot posts of a given Reddit subreddit."""
+|3,0,2,1,1,0,1715320392,"\"\"\"Function to count words in all hot posts of a given Reddit subreddit.\"\"\""
+"3	LINE	0
+	import requests
+|3,0,3,1,1,0,1715320392,"import requests"
+"4	LINE	0
+	
+|3,0,4,1,1,0,1715320392,""
+"5	LINE	0
+	
+|3,0,5,1,1,0,1715320392,""
+"6	LINE	0
+	def count_words(subreddit, word_list, instances={}, after="", count=0):
+|3,0,6,1,1,0,1715320391,"def count_words(subreddit, word_list, instances={}, after=\"\", count=0):"
+"7	LINE	0
+	    """Prints counts of given words found in hot posts of a given subreddit.
+|3,0,7,1,1,0,1715320391,"    \"\"\"Prints counts of given words found in hot posts of a given subreddit."
+"8	LINE	0
+	
+|3,0,8,1,1,0,1715320391,""
+"9	LINE	0
+	    Args:
+|3,0,9,1,1,0,1715320391,"    Args:"
+"-	CHAR	0
+	 
+|3,0,36,0,1,0,1714695151," "
 
 # File marks:
-'0  126  0  ~/AirBnB_clone_v2/web_static/styles/8-places.css
-|4,48,126,0,1710946288,"~/AirBnB_clone_v2/web_static/styles/8-places.css"
-'1  32  0  ~/AirBnB_clone_v2/web_static/styles/7-places.css
-|4,49,32,0,1710946258,"~/AirBnB_clone_v2/web_static/styles/7-places.css"
-'2  101  0  ~/AirBnB_clone_v2/web_static/styles/6-filters.css
-|4,50,101,0,1710946234,"~/AirBnB_clone_v2/web_static/styles/6-filters.css"
-'3  61  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
-|4,51,61,0,1710946210,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
-'4  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,52,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
-'5  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,53,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
-'6  18  0  ~/AirBnB_clone_v2/web_static/styles/3-header.css
-|4,54,18,0,1710945486,"~/AirBnB_clone_v2/web_static/styles/3-header.css"
-'7  10  0  ~/AirBnB_clone_v2/web_static/styles/3-footer.css
-|4,55,10,0,1710945456,"~/AirBnB_clone_v2/web_static/styles/3-footer.css"
-'8  8  0  ~/AirBnB_clone_v2/web_static/styles/3-common.css
-|4,56,8,0,1710945427,"~/AirBnB_clone_v2/web_static/styles/3-common.css"
-'9  5  0  ~/AirBnB_clone_v2/web_static/styles/2-header.css
-|4,57,5,0,1710945399,"~/AirBnB_clone_v2/web_static/styles/2-header.css"
+'0  218  72  ~/alx-backend-javascript/0x00-ES6_basic/README.md
+|4,48,218,72,1719390430,"~/alx-backend-javascript/0x00-ES6_basic/README.md"
+'1  9  0  ~/alx-backend-javascript/0x00-ES6_basic/101-iterateThroughObject.js
+|4,49,9,0,1719390350,"~/alx-backend-javascript/0x00-ES6_basic/101-iterateThroughObject.js"
+'2  9  0  ~/alx-backend-javascript/0x00-ES6_basic/100-createIteratorObject.js
+|4,50,9,0,1719390283,"~/alx-backend-javascript/0x00-ES6_basic/100-createIteratorObject.js"
+'3  8  0  ~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js
+|4,51,8,0,1719390206,"~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js"
+'4  7  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,52,7,0,1719389978,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+'5  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,53,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+'6  16  0  ~/alx-backend-javascript/0x00-ES6_basic/9-getFullBudget.js
+|4,54,16,0,1719389775,"~/alx-backend-javascript/0x00-ES6_basic/9-getFullBudget.js"
+'7  1  0  ~/alx-backend-javascript/0x00-ES6_basic/9-getFullBudget.js
+|4,55,1,0,1719389685,"~/alx-backend-javascript/0x00-ES6_basic/9-getFullBudget.js"
+'8  1  0  ~/alx-backend-javascript/0x00-ES6_basic/9-getFullBudget.js
+|4,56,1,0,1719389685,"~/alx-backend-javascript/0x00-ES6_basic/9-getFullBudget.js"
+'9  14  0  ~/alx-backend-javascript/0x00-ES6_basic/8-getBudgetCurrentYear.js
+|4,57,14,0,1719389606,"~/alx-backend-javascript/0x00-ES6_basic/8-getBudgetCurrentYear.js"
 
 # Jumplist (newest first):
--'  126  0  ~/AirBnB_clone_v2/web_static/styles/8-places.css
-|4,39,126,0,1710946288,"~/AirBnB_clone_v2/web_static/styles/8-places.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/8-places.css
-|4,39,1,0,1710946277,"~/AirBnB_clone_v2/web_static/styles/8-places.css"
--'  32  0  ~/AirBnB_clone_v2/web_static/styles/7-places.css
-|4,39,32,0,1710946258,"~/AirBnB_clone_v2/web_static/styles/7-places.css"
--'  32  0  ~/AirBnB_clone_v2/web_static/styles/7-places.css
-|4,39,32,0,1710946258,"~/AirBnB_clone_v2/web_static/styles/7-places.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/7-places.css
-|4,39,1,0,1710946246,"~/AirBnB_clone_v2/web_static/styles/7-places.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/7-places.css
-|4,39,1,0,1710946246,"~/AirBnB_clone_v2/web_static/styles/7-places.css"
--'  101  0  ~/AirBnB_clone_v2/web_static/styles/6-filters.css
-|4,39,101,0,1710946234,"~/AirBnB_clone_v2/web_static/styles/6-filters.css"
--'  101  0  ~/AirBnB_clone_v2/web_static/styles/6-filters.css
-|4,39,101,0,1710946234,"~/AirBnB_clone_v2/web_static/styles/6-filters.css"
--'  101  0  ~/AirBnB_clone_v2/web_static/styles/6-filters.css
-|4,39,101,0,1710946234,"~/AirBnB_clone_v2/web_static/styles/6-filters.css"
--'  101  0  ~/AirBnB_clone_v2/web_static/styles/6-filters.css
-|4,39,101,0,1710946234,"~/AirBnB_clone_v2/web_static/styles/6-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/6-filters.css
-|4,39,1,0,1710946223,"~/AirBnB_clone_v2/web_static/styles/6-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/6-filters.css
-|4,39,1,0,1710946223,"~/AirBnB_clone_v2/web_static/styles/6-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/6-filters.css
-|4,39,1,0,1710946223,"~/AirBnB_clone_v2/web_static/styles/6-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/6-filters.css
-|4,39,1,0,1710946223,"~/AirBnB_clone_v2/web_static/styles/6-filters.css"
--'  61  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
-|4,39,61,0,1710946210,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
--'  61  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
-|4,39,61,0,1710946210,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
--'  61  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
-|4,39,61,0,1710946210,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
--'  61  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
-|4,39,61,0,1710946210,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
--'  61  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
-|4,39,61,0,1710946210,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
--'  61  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
-|4,39,61,0,1710946210,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
--'  61  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
-|4,39,61,0,1710946210,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
--'  61  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
-|4,39,61,0,1710946210,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
-|4,39,1,0,1710946199,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
-|4,39,1,0,1710946199,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
-|4,39,1,0,1710946199,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
-|4,39,1,0,1710946199,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
-|4,39,1,0,1710946199,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
-|4,39,1,0,1710946199,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
-|4,39,1,0,1710946199,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/5-filters.css
-|4,39,1,0,1710946199,"~/AirBnB_clone_v2/web_static/styles/5-filters.css"
--'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  27  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,27,0,1710946185,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-|4,39,1,0,1710945535,"~/AirBnB_clone_v2/web_static/styles/4-filters.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  13  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,13,0,1710945522,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,1,0,1710945514,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,1,0,1710945514,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,1,0,1710945514,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,1,0,1710945514,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,1,0,1710945514,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
--'  1  0  ~/AirBnB_clone_v2/web_static/styles/4-common.css
-|4,39,1,0,1710945514,"~/AirBnB_clone_v2/web_static/styles/4-common.css"
+-'  218  72  ~/alx-backend-javascript/0x00-ES6_basic/README.md
+|4,39,218,72,1719390430,"~/alx-backend-javascript/0x00-ES6_basic/README.md"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/README.md
+|4,39,1,0,1719390415,"~/alx-backend-javascript/0x00-ES6_basic/README.md"
+-'  9  0  ~/alx-backend-javascript/0x00-ES6_basic/101-iterateThroughObject.js
+|4,39,9,0,1719390350,"~/alx-backend-javascript/0x00-ES6_basic/101-iterateThroughObject.js"
+-'  9  0  ~/alx-backend-javascript/0x00-ES6_basic/101-iterateThroughObject.js
+|4,39,9,0,1719390350,"~/alx-backend-javascript/0x00-ES6_basic/101-iterateThroughObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/101-iterateThroughObject.js
+|4,39,1,0,1719390311,"~/alx-backend-javascript/0x00-ES6_basic/101-iterateThroughObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/101-iterateThroughObject.js
+|4,39,1,0,1719390311,"~/alx-backend-javascript/0x00-ES6_basic/101-iterateThroughObject.js"
+-'  9  0  ~/alx-backend-javascript/0x00-ES6_basic/100-createIteratorObject.js
+|4,39,9,0,1719390283,"~/alx-backend-javascript/0x00-ES6_basic/100-createIteratorObject.js"
+-'  9  0  ~/alx-backend-javascript/0x00-ES6_basic/100-createIteratorObject.js
+|4,39,9,0,1719390283,"~/alx-backend-javascript/0x00-ES6_basic/100-createIteratorObject.js"
+-'  9  0  ~/alx-backend-javascript/0x00-ES6_basic/100-createIteratorObject.js
+|4,39,9,0,1719390283,"~/alx-backend-javascript/0x00-ES6_basic/100-createIteratorObject.js"
+-'  9  0  ~/alx-backend-javascript/0x00-ES6_basic/100-createIteratorObject.js
+|4,39,9,0,1719390283,"~/alx-backend-javascript/0x00-ES6_basic/100-createIteratorObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/100-createIteratorObject.js
+|4,39,1,0,1719390272,"~/alx-backend-javascript/0x00-ES6_basic/100-createIteratorObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/100-createIteratorObject.js
+|4,39,1,0,1719390272,"~/alx-backend-javascript/0x00-ES6_basic/100-createIteratorObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/100-createIteratorObject.js
+|4,39,1,0,1719390272,"~/alx-backend-javascript/0x00-ES6_basic/100-createIteratorObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/100-createIteratorObject.js
+|4,39,1,0,1719390272,"~/alx-backend-javascript/0x00-ES6_basic/100-createIteratorObject.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js
+|4,39,8,0,1719390206,"~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js
+|4,39,8,0,1719390206,"~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js
+|4,39,8,0,1719390206,"~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js
+|4,39,8,0,1719390206,"~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js
+|4,39,8,0,1719390206,"~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js
+|4,39,8,0,1719390206,"~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js
+|4,39,8,0,1719390206,"~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js
+|4,39,8,0,1719390206,"~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js
+|4,39,1,0,1719390194,"~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js
+|4,39,1,0,1719390194,"~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js
+|4,39,1,0,1719390194,"~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js
+|4,39,1,0,1719390194,"~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js
+|4,39,1,0,1719390194,"~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js
+|4,39,1,0,1719390194,"~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js
+|4,39,1,0,1719390194,"~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js
+|4,39,1,0,1719390194,"~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js"
+-'  7  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,7,0,1719389978,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  7  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,7,0,1719389978,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  7  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,7,0,1719389978,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  7  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,7,0,1719389978,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  7  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,7,0,1719389978,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  7  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,7,0,1719389978,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  7  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,7,0,1719389978,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  7  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,7,0,1719389978,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  7  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,7,0,1719389978,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  7  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,7,0,1719389978,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  7  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,7,0,1719389978,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  7  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,7,0,1719389978,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  7  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,7,0,1719389978,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  7  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,7,0,1719389978,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  7  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,7,0,1719389978,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  7  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,7,0,1719389978,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,1,0,1719389960,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,1,0,1719389960,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,1,0,1719389960,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,1,0,1719389960,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,1,0,1719389960,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,1,0,1719389960,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,1,0,1719389960,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,1,0,1719389960,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,1,0,1719389960,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,1,0,1719389960,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,1,0,1719389960,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,1,0,1719389960,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,1,0,1719389960,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,1,0,1719389960,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,1,0,1719389960,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+|4,39,1,0,1719389960,"~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  8  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,8,0,1719389878,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,1,0,1719389845,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,1,0,1719389845,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,1,0,1719389845,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,1,0,1719389845,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,1,0,1719389845,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
+-'  1  0  ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+|4,39,1,0,1719389845,"~/alx-backend-javascript/0x00-ES6_basic/10-loops.js"
 
 # History of marks within files (newest to oldest):
 
-> ~/AirBnB_clone_v2/web_static/styles/8-places.css
-	*	1710946286	0
-	"	126	0
-	^	126	1
-	.	126	0
-	+	126	0
+> ~/alx-backend-javascript/0x00-ES6_basic/README.md
+	*	1719390425	0
+	"	218	72
+	^	218	73
+	.	218	72
+	+	218	72
 
-> ~/AirBnB_clone_v2/web_static/styles/7-places.css
-	*	1710946256	0
-	"	32	0
-	^	32	1
-	.	32	0
-	+	32	0
-
-> ~/AirBnB_clone_v2/web_static/styles/6-filters.css
-	*	1710946231	0
-	"	101	0
-	^	101	1
-	.	101	0
-	+	101	0
-
-> ~/AirBnB_clone_v2/web_static/styles/5-filters.css
-	*	1710946208	0
-	"	61	0
-	^	61	1
-	.	61	0
-	+	61	0
-
-> ~/AirBnB_clone_v2/web_static/styles/4-filters.css
-	*	1710946182	0
-	"	27	0
-	^	27	1
-	.	27	0
-	+	27	0
-
-> ~/AirBnB_clone_v2/web_static/styles/4-common.css
-	*	1710945520	0
-	"	13	0
-	^	13	1
-	.	13	0
-	+	13	0
-
-> ~/AirBnB_clone_v2/web_static/styles/3-header.css
-	*	1710945483	0
-	"	18	0
-	^	18	1
-	.	18	0
-	+	18	0
-
-> ~/AirBnB_clone_v2/web_static/styles/3-footer.css
-	*	1710945453	0
-	"	10	0
-	^	10	1
-	.	10	0
-	+	10	0
-
-> ~/AirBnB_clone_v2/web_static/styles/3-common.css
-	*	1710945425	0
-	"	8	0
-	^	8	1
-	.	8	0
-	+	8	0
-
-> ~/AirBnB_clone_v2/web_static/styles/2-header.css
-	*	1710945397	0
-	"	5	0
-	^	5	1
-	.	5	0
-	+	5	0
-
-> ~/AirBnB_clone_v2/web_static/styles/2-footer.css
-	*	1710945374	0
+> ~/alx-backend-javascript/0x00-ES6_basic/101-iterateThroughObject.js
+	*	1719390344	0
 	"	9	0
 	^	9	1
 	.	9	0
 	+	9	0
 
-> ~/AirBnB_clone_v2/web_static/styles/2-common.css
-	*	1710945353	0
-	"	4	0
-	^	4	1
-	.	4	0
-	+	4	0
-
-> ~/AirBnB_clone_v2/web_static/styles/103-places.css
-	*	1710945331	0
-	"	209	0
-	^	209	1
-	.	209	0
-	+	209	0
-
-> ~/AirBnB_clone_v2/web_static/styles/103-header.css
-	*	1710945302	0
-	"	18	0
-	^	18	1
-	.	18	0
-	+	18	0
-
-> ~/AirBnB_clone_v2/web_static/styles/103-footer.css
-	*	1710945281	0
-	"	10	0
-	^	10	1
-	.	10	0
-	+	10	0
-
-> ~/AirBnB_clone_v2/web_static/styles/103-filters.css
-	*	1710945259	0
-	"	101	0
-	^	101	1
-	.	101	0
-	+	101	0
-
-> ~/AirBnB_clone_v2/web_static/styles/103-common.css
-	*	1710945237	0
-	"	13	0
-	^	13	1
-	.	13	0
-	+	13	0
-
-> ~/AirBnB_clone_v2/web_static/styles/102-places.css
-	*	1710945214	0
-	"	209	0
-	^	209	1
-	.	209	0
-	+	209	0
-
-> ~/AirBnB_clone_v2/web_static/styles/102-header.css
-	*	1710945183	0
-	"	18	0
-	^	18	1
-	.	18	0
-	+	18	0
-
-> ~/AirBnB_clone_v2/web_static/styles/102-footer.css
-	*	1710945155	0
-	"	10	0
-	^	10	1
-	.	10	0
-	+	10	0
-
-> ~/AirBnB_clone_v2/web_static/styles/102-filters.css
-	*	1710945133	0
-	"	101	0
-	^	101	1
-	.	101	0
-	+	101	0
-
-> ~/AirBnB_clone_v2/web_static/styles/102-common.css
-	*	1710945107	0
-	"	13	0
-	^	13	1
-	.	13	0
-	+	13	0
-
-> ~/AirBnB_clone_v2/web_static/styles/101-places.css
-	*	1710945084	0
-	"	209	0
-	^	209	1
-	.	209	0
-	+	209	0
-
-> ~/AirBnB_clone_v2/web_static/styles/100-places.css
-	*	1710945050	0
-	"	209	0
-	^	209	1
-	.	209	0
-	+	209	0
-
-> ~/AirBnB_clone_v2/web_static/README.md
-	*	1710925197	0
-	"	1	40
-	^	1	41
-	.	1	40
-	+	1	40
-
-> ~/AirBnB_clone_v2/web_static/8-index.html
-	*	1710925178	0
-	"	129	6
-	^	129	7
-	.	129	6
-	+	129	6
-
-> ~/AirBnB_clone_v2/web_static/7-index.html
-	*	1710925154	0
-	"	66	6
-	^	66	7
-	.	66	6
-	+	66	6
-
-> ~/AirBnB_clone_v2/web_static/6-index.html
-	*	1710925132	0
-	"	53	6
-	^	53	7
-	.	53	6
-	+	53	6
-
-> ~/AirBnB_clone_v2/web_static/5-index.html
-	*	1710925111	0
-	"	35	6
-	^	35	7
-	.	35	6
-	+	35	6
-
-> ~/AirBnB_clone_v2/web_static/4-index.html
-	*	1710925093	0
-	"	26	6
-	^	26	7
-	.	26	6
-	+	26	6
-
-> ~/AirBnB_clone_v2/web_static/3-index.html
-	*	1710925072	0
-	"	21	6
-	^	21	7
-	.	21	6
-	+	21	6
-
-> ~/AirBnB_clone_v2/web_static/2-index.html
-	*	1710925050	0
-	"	18	6
-	^	18	7
-	.	18	6
-	+	18	6
-
-> ~/AirBnB_clone_v2/web_static/103-index.html
-	*	1710925024	0
-	"	195	6
-	^	195	7
-	.	195	6
-	+	195	6
-
-> ~/AirBnB_clone_v2/web_static/102-index.html
-	*	1710924998	0
-	"	195	6
-	^	195	7
-	.	195	6
-	+	195	6
-
-> ~/AirBnB_clone_v2/web_static/101-index.html
-	*	1710924977	0
-	"	195	6
-	^	195	7
-	.	195	6
-	+	195	6
-
-> ~/AirBnB_clone_v2/web_static/100-index.html
-	*	1710924951	0
-	"	195	6
-	^	195	7
-	.	195	6
-	+	195	6
-
-> ~/AirBnB_clone_v2/web_static/1-index.html
-	*	1710924931	0
-	"	21	6
-	^	21	7
-	.	21	6
-	+	21	6
-
-> ~/AirBnB_clone_v2/web_static/0-index.html
-	*	1710924913	0
-	"	14	6
-	^	14	7
-	.	14	6
-	+	14	6
-
-> ~/AirBnB_clone_v2/web_flask/templates/9-states.html
-	*	1710924818	0
-	"	26	6
-	^	26	7
-	.	26	6
-	+	26	6
-
-> ~/AirBnB_clone_v2/web_flask/templates/8-cities_by_states.html
-	*	1710924795	0
-	"	20	6
-	^	20	7
-	.	20	6
-	+	20	6
-
-> ~/AirBnB_clone_v2/web_flask/templates/7-states_list.html
-	*	1710924772	0
-	"	15	6
-	^	15	7
-	.	15	6
-	+	15	6
-
-> ~/AirBnB_clone_v2/web_flask/templates/6-number_odd_or_even.html
-	*	1710924751	0
-	"	13	6
-	^	13	7
-	.	13	6
-	+	13	6
-
-> ~/AirBnB_clone_v2/web_flask/templates/5-number.html
-	*	1710924727	0
-	"	9	6
-	^	9	7
-	.	9	6
-	+	9	6
-
-> ~/AirBnB_clone_v2/web_flask/templates/100-hbnb.html
-	*	1710924703	0
-	"	113	6
-	^	113	7
-	.	113	6
-	+	113	6
-
-> ~/AirBnB_clone_v2/web_flask/templates/10-hbnb_filters.htm
-	*	1710924682	0
-	"	53	6
-	^	53	7
-	.	53	6
-	+	53	6
-
-> ~/AirBnB_clone_v2/web_flask/README.md
-	*	1710924635	0
-	"	1	10
-	^	1	11
-	.	1	10
-	+	1	10
-
-> ~/AirBnB_clone_v2/web_flask/9-states.py
-	*	1710924613	0
-	"	42	26
-	^	42	27
-	.	42	26
-	+	42	26
-
-> ~/AirBnB_clone_v2/web_flask/8-cities_by_states.py
-	*	1710924592	0
-	"	32	26
-	^	32	27
-	.	32	26
-	+	32	26
-
-> ~/AirBnB_clone_v2/web_flask/7-states_list.py
-	*	1710924569	0
-	"	32	26
-	^	32	27
-	.	32	26
-	+	32	26
-
-> ~/AirBnB_clone_v2/web_flask/6-number_odd_or_even.py
-	*	1710924549	0
-	"	82	26
-	^	82	27
-	.	82	26
-	+	82	26
-
-> ~/AirBnB_clone_v2/web_flask/5-number_template.py
-	*	1710924525	0
-	"	65	26
-	^	65	27
-	.	65	26
-	+	65	26
-
-> ~/AirBnB_clone_v2/web_flask/4-number_route.py
-	*	1710924503	0
-	"	58	26
-	^	58	27
-	.	58	26
-	+	58	26
-
-> ~/AirBnB_clone_v2/web_flask/3-python_route.py
-	*	1710924483	0
-	"	50	26
-	^	50	27
-	.	50	26
-	+	50	26
-
-> ~/AirBnB_clone_v2/web_flask/2-c_route.py
-	*	1710924457	0
-	"	35	26
-	^	35	27
-	.	35	26
-	+	35	26
-
-> ~/AirBnB_clone_v2/web_flask/100-hbnb.py
-	*	1710924437	0
-	"	32	26
-	^	32	27
-	.	32	26
-	+	32	26
-
-> ~/AirBnB_clone_v2/web_flask/10-hbnb_filters.py
-	*	1710924415	0
-	"	31	26
-	^	31	27
-	.	31	26
-	+	31	26
-
-> ~/AirBnB_clone_v2/web_flask/1-hbnb_route.py
-	*	1710924343	0
-	"	27	26
-	^	27	27
-	.	27	26
-	+	27	26
-
-> ~/AirBnB_clone_v2/web_flask/0-hello_route.py
-	*	1710924314	0
-	"	20	26
-	^	20	27
-	.	20	26
-	+	20	26
-
-> ~/AirBnB_clone_v2/tests/test_models/test_engine/test_file_storage.py
-	*	1710924229	0
-	"	109	51
-	^	109	52
-	.	109	51
-	+	109	51
-
-> ~/AirBnB_clone_v2/tests/test_models/test_engine/test_db_storage.py
-	*	1710924200	0
-	"	130	63
-	^	130	64
-	.	130	63
-	+	130	63
-
-> ~/AirBnB_clone_v2/tests/test_models/test_engine/__init__.py
-	*	1710924166	0
-	"	1	0
-
-> ~/AirBnB_clone_v2/tests/test_models/test_user.py
-	*	1710924124	0
-	"	34	48
-	^	34	49
-	.	34	48
-	+	34	48
-
-> ~/AirBnB_clone_v2/tests/test_models/test_state.py
-	*	1710924101	0
-	"	19	44
-	^	19	45
-	.	19	44
-	+	19	44
-
-> ~/AirBnB_clone_v2/tests/test_models/test_review.py
-	*	1710924078	0
-	"	29	44
-	^	29	45
-	.	29	44
-	+	29	44
-
-> ~/AirBnB_clone_v2/tests/test_models/test_place.py
-	*	1710924012	0
-	"	69	52
-	^	69	53
-	.	69	52
-	+	69	52
-
-> ~/AirBnB_clone_v2/tests/test_models/test_city.py
-	*	1710923988	0
-	"	99	18
-	^	99	19
-	.	99	18
-	+	99	18
-
-> ~/AirBnB_clone_v2/tests/test_models/test_base_model.py
-	*	1710923960	0
-	"	223	18
-	^	223	19
-	.	223	18
-	+	223	18
-
-> ~/AirBnB_clone_v2/tests/test_models/test_amenity.py
-	*	1710923923	0
-	"	174	45
-	^	174	46
-	.	174	45
-	+	174	45
-
-> ~/AirBnB_clone_v2/tests/test_models/__init__.py
-	*	1710923895	0
-	"	1	0
-
-> ~/AirBnB_clone_v2/tests/__init__.py
-	*	1710923850	0
-	"	1	0
-
-> ~/AirBnB_clone_v2/models/engine/file_storage.py
-	*	1710923737	0
-	"	80	20
-	^	80	21
-	.	80	20
-	+	80	20
-
-> ~/AirBnB_clone_v2/models/engine/db_storage.py
-	*	1710923707	0
-	"	84	29
-	^	84	30
-	.	84	29
-	+	84	29
-
-> ~/AirBnB_clone_v2/models/engine/__init__.py
-	*	1710923620	0
-	"	1	0
-
-> ~/AirBnB_clone_v2/models/user.py
-	*	1710923578	0
-	"	27	41
-	^	27	42
-	.	27	41
-	+	27	41
-
-> ~/AirBnB_clone_v2/models/state.py
-	*	1710923557	0
-	"	35	22
-	^	35	23
-	.	35	22
-	+	35	22
-
-> ~/AirBnB_clone_v2/models/review.py
-	*	1710923531	0
-	"	18	71
-	^	18	72
-	.	18	71
-	+	18	71
-
-> ~/AirBnB_clone_v2/models/place.py
-	*	1710923508	0
-	"	83	46
-	^	83	47
-	.	83	46
-	+	83	46
-
-> ~/AirBnB_clone_v2/models/city.py
-	*	1710923468	0
-	"	21	42
-	^	21	43
-	.	21	42
-	+	21	42
-
-> ~/AirBnB_clone_v2/models/base_model.py
-	*	1710923446	0
-	"	83	34
-	^	83	35
-	.	83	34
-	+	83	34
-
-> ~/AirBnB_clone_v2/models/amenity.py
-	*	1710923422	0
-	"	16	67
-	^	16	68
-	.	16	67
-	+	16	67
-
-> ~/AirBnB_clone_v2/models/__init__.py
-	*	1710923396	0
-	"	19	15
-	^	19	16
-	.	19	15
-	+	19	15
-
-> ~/AirBnB_clone_v2/README.md
-	*	1710923307	0
-	"	142	3
-	^	142	4
-	.	142	3
-	+	142	3
-
-> ~/AirBnB_clone_v2/AUTHORS
-	*	1710923284	0
-	"	5	34
-	^	5	35
+> ~/alx-backend-javascript/0x00-ES6_basic/100-createIteratorObject.js
+	*	1719390281	0
+	"	9	0
+	^	9	1
+	.	9	0
+	+	9	0
+
+> ~/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js
+	*	1719390203	0
+	"	8	0
+	^	8	1
+	.	8	0
+	+	8	0
+
+> ~/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js
+	*	1719389972	0
+	"	7	0
+	^	7	1
+	.	7	0
+	+	7	0
+
+> ~/alx-backend-javascript/0x00-ES6_basic/10-loops.js
+	*	1719389874	0
+	"	8	0
+	^	8	1
+	.	8	0
+	+	8	0
+
+> ~/alx-backend-javascript/0x00-ES6_basic/9-getFullBudget.js
+	*	1719389704	0
+	"	16	0
+	^	16	1
+	.	16	0
+	+	1	50
+	+	16	0
+
+> ~/alx-backend-javascript/0x00-ES6_basic/8-getBudgetCurrentYear.js
+	*	1719389561	0
+	"	14	0
+	^	14	1
+	.	14	0
+	+	14	0
+
+> ~/alx-backend-javascript/0x00-ES6_basic/7-getBudgetObject.js
+	*	1719389236	0
+	"	9	0
+	^	9	1
+	.	9	0
+	+	9	0
+
+> ~/alx-backend-javascript/0x00-ES6_basic/6-string-interpolation.js
+	*	1719389074	0
+	"	12	0
+	^	12	1
+	.	12	0
+	+	1	99
+	+	1	177
+	+	1	355
+	+	1	99
+	+	12	0
+
+> ~/alx-backend-javascript/0x00-ES6_basic/5-spread-operator.js
+	*	1719381142	0
+	"	2	41
+	^	2	42
+	.	2	42
+	+	3	0
+	+	2	42
+
+> ~/alx-backend-javascript/0x00-ES6_basic/4-rest-parameter.js
+	*	1719380937	0
+	"	2	18
+	^	2	19
+	.	2	18
+	+	3	0
+	+	1	53
+	+	2	18
+
+> ~/alx-backend-javascript/0x00-ES6_basic/3-default-parameter.js
+	*	1719380776	0
+	"	1	141
+	^	1	142
+	.	2	0
+	+	1	142
+	+	1	90
+	+	1	95
+	+	2	0
+
+> ~/alx-backend-javascript/0x00-ES6_basic/2-arrow.js
+	*	1719380404	0
+	"	5	33
+	^	5	34
 	.	5	34
+	+	9	0
 	+	5	34
 
-> ~/AirBnB_clone_v2/3-deploy_web_static.py
-	*	1710923250	0
-	"	76	25
-	^	76	26
-	.	76	25
-	+	76	25
+> ~/alx-backend-javascript/0x00-ES6_basic/1-block-scoped.js
+	*	1719380232	0
+	"	7	8
+	^	7	9
+	.	7	8
+	+	11	0
+	+	6	8
+	+	7	8
 
-> ~/AirBnB_clone_v2/2-do_deploy_web_static.py
-	*	1710923211	0
-	"	49	14
-	^	49	15
-	.	49	14
-	+	49	14
+> ~/alx-backend-javascript/0x00-ES6_basic/0-constants.js
+	*	1719380106	0
+	"	15	0
+	^	15	1
+	.	15	0
+	+	15	0
 
-> ~/AirBnB_clone_v2/101-setup_web_static.pp
-	*	1710923177	0
-	"	91	0
-	^	91	1
-	.	91	0
-	+	91	0
+> ~/alx-backend-javascript/0x00-ES6_basic/.eslintrc.js
+	*	1719380071	0
+	"	36	0
+	^	36	0
+	.	35	2
+	+	35	2
 
-> ~/AirBnB_clone_v2/100-clean_web_static.py
-	*	1710923153	0
-	"	30	55
-	^	30	56
-	.	30	55
-	+	30	55
+> ~/alx-backend-javascript/0x00-ES6_basic/babel.config.js
+	*	1719380032	0
+	"	13	0
+	^	13	0
+	.	12	2
+	+	12	2
 
-> ~/AirBnB_clone_v2/1-pack_web_static.py
-	*	1710923120	0
-	"	22	14
-	^	22	15
-	.	22	14
-	+	22	14
+> ~/alx-backend-javascript/0x00-ES6_basic/package.json
+	*	1719380001	0
+	"	19	0
+	^	19	1
+	.	19	0
+	+	19	0
 
-> ~/AirBnB_clone_v2/0-setup_web_static.sh
-	*	1710923085	0
-	"	38	20
-	^	38	21
-	.	38	20
-	+	38	20
+> ~/alx-system_engineering-devops/0x1A-application_server/gunicorn.conf
+	*	1715878860	0
+	"	12	134
+	^	12	135
+	.	12	134
+	+	12	134
 
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_state.py
-	*	1710748928	0
-	"	20	50
-	^	20	51
-	.	20	50
-	+	20	50
+> ~/alx-system_engineering-devops/0x1A-application_server/5-app_server-nginx_config
+	*	1715878850	0
+	"	9	29
+	^	9	30
+	.	9	29
+	+	45	0
+	+	9	29
 
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_city.py
-	*	1710748906	0
-	"	17	70
-	^	17	71
-	.	17	70
-	+	17	70
+> ~/alx-system_engineering-devops/0x1A-application_server/4-reload_gunicorn_no_downtime
+	*	1715878757	0
+	"	4	60
+	^	4	61
+	.	4	60
+	+	4	60
 
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_state.py
-	*	1710748885	0
+> ~/alx-system_engineering-devops/0x1A-application_server/4-app_server-nginx_config
+	*	1715878727	0
+	"	9	29
+	^	9	30
+	.	9	29
+	+	35	0
+	+	9	29
+
+> ~/alx-system_engineering-devops/0x1A-application_server/3-app_server-nginx_config
+	*	1715869162	0
+	"	9	30
+	^	9	31
+	.	9	31
+	+	30	0
+	+	9	31
+
+> ~/alx-system_engineering-devops/0x1A-application_server/2-app_server-nginx_config
+	*	1715869079	0
+	"	9	29
+	^	9	30
+	.	9	29
+	+	25	0
+	+	9	29
+
+> ~/alx-system_engineering-devops/0x19-postmortem/README.md
+	*	1715323336	0
+	"	36	399
+	^	36	400
+	.	36	399
+	+	36	398
+	+	33	0
+	+	27	0
+	+	11	0
+	+	5	9
+	+	7	0
+	+	5	8
+	+	7	0
+	+	3	11
+	+	5	8
+	+	1	2
+	+	3	2
+	+	5	2
+	+	7	2
+	+	11	2
+	+	27	2
+	+	33	0
+	+	36	399
+
+> ~/alx-system_engineering-devops/0x16-api_advanced/100-count.py
+	*	1715320402	0
 	"	18	45
 	^	18	46
 	.	18	45
+	+	1	18
 	+	18	45
 
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/model_city.py
-	*	1710748864	0
-	"	17	70
-	^	17	71
-	.	17	70
-	+	17	70
+> ~/alx-system_engineering-devops/0x16-api_advanced/2-recurse.py
+	*	1715320365	0
+	"	33	20
+	^	33	21
+	.	33	20
+	+	1	18
+	+	33	20
 
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/README.md
-	*	1710748839	0
-	"	167	47
-	^	167	48
-	.	167	47
-	+	167	47
+> ~/alx-system_engineering-devops/0x16-api_advanced/1-top_ten.py
+	*	1715320327	0
+	"	21	18
+	^	21	19
+	.	21	18
+	+	1	18
+	+	21	18
 
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/9-model_state_filter_a.py
-	*	1710748808	0
-	"	17	50
-	^	17	51
-	.	17	50
-	+	17	50
+> ~/alx-system_engineering-devops/0x16-api_advanced/0-subs.py
+	*	1715320263	0
+	"	19	13
+	^	19	14
+	.	19	13
+	+	1	18
+	+	19	13
 
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/8-model_state_fetch_first.py
-	*	1710748783	0
-	"	20	50
-	^	20	51
-	.	20	50
-	+	20	50
+> ~/AirBnB_clone_v3/0-setup_web_static.sh
+	*	1714697519	0
+	"	1	0
 
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/7-model_state_fetch_all.sql
-	*	1710748760	0
-	"	2	97
-	^	2	98
-	.	2	97
-	+	2	97
+> ~/AirBnB_clone_v3/api/v1/views/__init__.py
+	*	1714696798	0
+	"	11	40
+	^	11	41
+	.	11	40
+	+	1	0
+	+	1	18
+	+	11	40
 
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/7-model_state_fetch_all.py
-	*	1710748733	0
-	"	17	50
-	^	17	51
-	.	17	50
-	+	17	50
+> ~/AirBnB_clone_v3/api/v1/views/amenities.py
+	*	1714696753	0
+	"	63	16
+	^	63	17
+	.	63	16
+	+	1	18
+	+	63	16
 
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/6-model_state.sql
-	*	1710748707	0
-	"	4	24
-	^	4	25
-	.	4	24
-	+	4	24
+> ~/AirBnB_clone_v3/models/user.py
+	*	1714696321	0
+	"	47	47
+	^	47	48
+	.	47	47
+	+	1	18
+	+	47	47
 
-> ~/alx-higher_level_programming/0x0F-python-object_relational_mapping/6-model_state.py
-	*	1710748685	0
-	"	11	35
-	^	11	36
-	.	11	35
-	+	11	35
+> ~/AirBnB_clone_v3/models/base_model.py
+	*	1714696253	0
+	"	83	34
+	^	83	35
+	.	83	34
+	+	1	18
+	+	83	34
+
+> ~/AirBnB_clone_v3/tests/test_models/test_user.py
+	*	1714695468	0
+	"	132	42
+	^	132	43
+	.	132	42
+	+	1	18
+	+	132	42
+
+> ~/AirBnB_clone_v3/tests/test_models/test_state.py
+	*	1714695406	0
+	"	105	43
+	^	105	44
+	.	105	43
+	+	1	18
+	+	105	43
+
+> ~/AirBnB_clone_v3/tests/test_models/test_review.py
+	*	1714695355	0
+	"	123	44
+	^	123	45
+	.	123	44
+	+	1	18
+	+	123	44
+
+> ~/AirBnB_clone_v3/tests/test_models/test_place.py
+	*	1714695290	0
+	"	200	43
+	^	200	44
+	.	200	43
+	+	1	18
+	+	200	43
+
+> ~/AirBnB_clone_v3/tests/test_models/test_city.py
+	*	1714695213	0
+	"	114	42
+	^	114	43
+	.	114	42
+	+	1	18
+	+	114	42
+
+> ~/AirBnB_clone_v3/tests/test_models/test_base_model.py
+	*	1714695004	0
+	"	160	48
+	^	160	49
+	.	160	48
+	+	160	48
+
+> ~/AirBnB_clone_v3/tests/test_models/test_amenity.py
+	*	1714694767	0
+	"	106	45
+	^	106	46
+	.	106	46
+	+	106	46
+
+> ~/AirBnB_clone_v3/tests/test_models/__init__.py
+	*	1714694581	0
+	"	1	0
+
+> ~/AirBnB_clone_v3/tests/test_models/test_engine/__init__.py
+	*	1714694285	0
+	"	1	0
+
+> ~/AirBnB_clone_v3/tests/test_models/test_engine/test_file_storage.py
+	*	1714694272	0
+	"	151	37
+	^	151	38
+	.	151	37
+	+	151	37
+
+> ~/AirBnB_clone_v3/tests/test_models/test_engine/test_db_storage.py
+	*	1714694058	0
+	"	123	37
+	^	123	38
+	.	123	38
+	+	123	38
+
+> ~/AirBnB_clone_v3/models/engine/file_storage.py
+	*	1714693451	0
+	"	87	20
+	^	87	21
+	.	87	20
+	+	221	0
+	+	87	20
+
+> ~/AirBnB_clone_v3/models/engine/db_storage.py
+	*	1714692880	0
+	"	87	30
+	^	87	31
+	.	87	30
+	+	87	30
+
+> ~/AirBnB_clone_v3/models/engine/__init__.py
+	*	1714692712	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	295
+	+	1	0
+
+> ~/AirBnB_clone_v3/api/v1/views/places_amenities.py
+	*	1714692181	0
+	"	106	19
+	^	106	20
+	.	106	20
+	+	106	20
+
+> ~/AirBnB_clone_v3/api/v1/views/places_reviews.py
+	*	1714691539	0
+	"	96	19
+	^	96	20
+	.	96	20
+	+	96	20
+
+> ~/AirBnB_clone_v3/api/v1/views/places.py
+	*	1714691348	0
+	"	199	25
+	^	199	26
+	.	199	25
+	+	199	25
+
+> ~/AirBnB_clone_v3/api/v1/views/users.py
+	*	1714691091	0
+	"	99	19
+	^	99	20
+	.	99	19
+	+	99	19
+
+> ~/AirBnB_clone_v3/api/v1/views/cities.py
+	*	1714690738	0
+	"	98	19
+	^	98	20
+	.	98	20
+	+	98	20
+
+> ~/AirBnB_clone_v3/api/v1/views/states.py
+	*	1714690091	0
+	"	86	19
+	^	86	20
+	.	86	20
+	+	1	0
+	+	86	20
+
+> ~/AirBnB_clone_v3/api/v1/views/index.py
+	*	1714689492	0
+	"	36	26
+	^	36	27
+	.	36	27
+	+	36	27
+
+> ~/AirBnB_clone_v3/.git/MERGE_MSG
+	*	1714689186	0
+	"	1	7
+	^	1	8
+	.	1	7
+	+	1	0
+	+	1	7
+
+> ~/AirBnB_clone_v3/api/v1/app.py
+	*	1714681437	0
+	"	50	4
+	^	50	5
+	.	50	4
+	+	1	799
+	+	1	633
+	+	1	686
+	+	1	344
+	+	1	189
+	+	1	0
+	+	1	70
+	+	50	4
+
+> ~/alx-higher_level_programming/0x15-javascript-web_jquery/README.md
+	*	1713861531	0
+	"	1	27
+	^	1	28
+	.	1	27
+	+	1	27
+
+> ~/alx-higher_level_programming/0x15-javascript-web_jquery/9-script.js
+	*	1713861512	0
+	"	5	2
+	^	5	3
+	.	5	2
+	+	5	2
+
+> ~/alx-higher_level_programming/0x15-javascript-web_jquery/8-script.js
+	*	1713861487	0
+	"	3	2
+	^	3	3
+	.	3	2
+	+	3	2
+
+> ~/alx-higher_level_programming/0x15-javascript-web_jquery/7-script.js
+	*	1713861466	0
+	"	3	2
+	^	3	3
+	.	3	2
+	+	3	2
+
+> ~/alx-higher_level_programming/0x15-javascript-web_jquery/6-script.js
+	*	1713861425	0
+	"	3	2
+	^	3	3
+	.	3	2
+	+	3	2
+
+> ~/alx-higher_level_programming/0x15-javascript-web_jquery/5-script.js
+	*	1713861401	0
+	"	3	2
+	^	3	3
+	.	3	2
+	+	3	2
+
+> ~/alx-higher_level_programming/0x15-javascript-web_jquery/4-script.js
+	*	1713861380	0
+	"	3	2
+	^	3	3
+	.	3	2
+	+	3	2
+
+> ~/alx-higher_level_programming/0x15-javascript-web_jquery/3-script.js
+	*	1713861357	0
+	"	3	2
+	^	3	3
+	.	3	2
+	+	3	2
+
+> ~/alx-higher_level_programming/0x15-javascript-web_jquery/2-script.js
+	*	1713861335	0
+	"	3	2
+	^	3	3
+	.	3	2
+	+	3	2
+
+> ~/alx-higher_level_programming/0x15-javascript-web_jquery/103-script.js
+	*	1713861312	0
+	"	17	0
+	^	17	1
+	.	17	0
+	+	17	0
+
+> ~/alx-higher_level_programming/0x15-javascript-web_jquery/102-script.js
+	*	1713861289	0
+	"	8	2
+	^	8	3
+	.	8	2
+	+	8	2
+
+> ~/alx-higher_level_programming/0x15-javascript-web_jquery/101-script.js
+	*	1713861267	0
+	"	11	2
+	^	11	3
+	.	11	2
+	+	11	2
+
+> ~/alx-higher_level_programming/0x15-javascript-web_jquery/100-script.js
+	*	1713861237	0
+	"	3	2
+	^	3	3
+	.	3	2
+	+	3	2
+
+> ~/alx-higher_level_programming/0x15-javascript-web_jquery/1-script.js
+	*	1713861207	0
+	"	1	35
+	^	1	36
+	.	1	35
+	+	1	35
+
+> ~/alx-higher_level_programming/0x15-javascript-web_jquery/0-script.js
+	*	1713861176	0
+	"	1	56
+	^	1	57
+	.	1	56
+	+	1	56
+
+> ~/alx-higher_level_programming/0x14-javascript-web_scraping/README.md
+	*	1713860955	0
+	"	62	85
+	^	62	86
+	.	62	85
+	+	62	85
+
+> ~/alx-higher_level_programming/0x14-javascript-web_scraping/6-completed_tasks.js
+	*	1713860931	0
+	"	26	2
+	^	26	3
+	.	26	2
+	+	26	2
+
+> ~/alx-higher_level_programming/0x14-javascript-web_scraping/5-request_store.js
+	*	1713860910	0
+	"	4	68
+	^	4	69
+	.	4	68
+	+	4	68
+
+> ~/alx-higher_level_programming/0x14-javascript-web_scraping/4-starwars_count.js
+	*	1713860886	0
+	"	12	2
+	^	12	3
+	.	12	2
+	+	12	2
+
+> ~/alx-higher_level_programming/0x14-javascript-web_scraping/3-starwars_title.js
+	*	1713860861	0
+	"	16	2
+	^	16	3
+	.	16	2
+	+	16	2
+
+> ~/alx-higher_level_programming/0x14-javascript-web_scraping/2-statuscode.js
+	*	1713860837	0
+	"	5	2
+	^	5	3
+	.	5	2
+	+	5	2
+
+> ~/alx-higher_level_programming/0x14-javascript-web_scraping/102-search_twitter.js
+	*	1713860815	0
+	"	47	0
+	^	47	1
+	.	47	0
+	+	47	0
+
+> ~/alx-higher_level_programming/0x14-javascript-web_scraping/101-starwars_characters.js
+	*	1713860791	0
+	"	20	0
+	^	20	1
+	.	20	0
+	+	20	0
+
+> ~/alx-higher_level_programming/0x14-javascript-web_scraping/100-starwars_characters.js
+	*	1713860767	0
+	"	21	2
+	^	21	3
+	.	21	2
+	+	21	2
+
+> ~/alx-higher_level_programming/0x14-javascript-web_scraping/1-writeme.js
+	*	1713860724	0
+	"	5	2
+	^	5	3
+	.	5	2
+	+	5	2
+
+> ~/alx-higher_level_programming/0x14-javascript-web_scraping/0-readme.js
+	*	1713860702	0
+	"	5	2
+	^	5	3
+	.	5	2
+	+	5	2
+
+> ~/alx-system_engineering-devops/0x1B-web_stack_debugging_4/README.md
+	*	1713860368	0
+	"	1	22
+	^	1	23
+	.	1	22
+	+	1	22
+
+> ~/alx-system_engineering-devops/0x1B-web_stack_debugging_4/1-user_limit.pp
+	*	1713860339	0
+	"	12	0
+	^	12	1
+	.	12	0
+	+	12	0
+
+> ~/alx-system_engineering-devops/0x1B-web_stack_debugging_4/0-the_sky_is_the_limit_not.pp
+	*	1713860313	0
+	"	12	0
+	^	12	1
+	.	12	0
+	+	12	0
+
+> ~/alx-system_engineering-devops/0x1A-application_server/README.md
+	*	1713860139	0
+	"	48	18
+	^	48	19
+	.	48	18
+	+	48	18
+
+> ~/alx-system_engineering-devops/0x17-web_stack_debugging_3/README.md
+	*	1713859461	0
+	"	1	31
+	^	1	32
+	.	1	31
+	+	1	31
+
+> ~/alx-system_engineering-devops/0x17-web_stack_debugging_3/0-strace_is_your_friend.pp
+	*	1713859361	0
+	"	6	0
+	^	6	1
+	.	6	0
+	+	6	0
+
+> ~/alx-system_engineering-devops/0x16-api_advanced/tests/2-main.py
+	*	1713859104	0
+	"	13	20
+	^	13	21
+	.	13	20
+	+	13	20
+
+> ~/alx-system_engineering-devops/0x16-api_advanced/tests/100-main.py
+	*	1713859080	0
+	"	43	13
+	^	43	14
+	.	43	13
+	+	43	13
+
+> ~/alx-system_engineering-devops/0x16-api_advanced/tests/1-main.py
+	*	1713859048	0
+	"	9	27
+	^	9	28
+	.	9	27
+	+	9	27
+
+> ~/alx-system_engineering-devops/0x16-api_advanced/tests/0-main.py
+	*	1713859019	0
+	"	10	63
+	^	10	64
+	.	10	63
+	+	10	63
+
+> ~/alx-system_engineering-devops/0x16-api_advanced/README.md
+	*	1713858941	0
+	"	48	63
+	^	48	64
+	.	48	63
+	+	48	63
+
+> ~/alx-system_engineering-devops/0x15-api/README.md
+	*	1713858685	0
+	"	34	418
+	^	34	419
+	.	34	418
+	+	34	418
+
+> ~/alx-system_engineering-devops/0x15-api/3-dictionary_of_list_of_dictionaries.py
+	*	1713858661	0
+	"	18	37
+	^	18	38
+	.	18	37
+	+	18	37
+
+> ~/alx-system_engineering-devops/0x15-api/2-export_to_JSON.py
+	*	1713858636	0
+	"	19	40
+	^	19	41
+	.	19	40
+	+	19	40
+
+> ~/alx-system_engineering-devops/0x15-api/1-export_to_CSV.py
+	*	1713858612	0
+	"	18	25
+	^	18	26
+	.	18	25
+	+	18	25
+
+> ~/alx-system_engineering-devops/0x15-api/0-gather_data_from_an_API.py
+	*	1713858575	0
+	"	14	48
+	^	14	49
+	.	14	48
+	+	14	48
